@@ -1,4 +1,4 @@
-<img width="435" height="427" alt="crossshell" src="https://github.com/user-attachments/assets/1d81e94a-e634-46eb-b222-e4076c2031ab" />
+<img width="297" height="202" alt="crossshell2" src="https://github.com/user-attachments/assets/a101f11b-5dd8-4204-8027-2ee122f04555" />
 
 CrossShell BSD v15.7
 ------------
