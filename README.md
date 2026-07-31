@@ -1,6 +1,5 @@
-<img width="297" height="202" alt="crossshell2" src="https://github.com/user-attachments/assets/a101f11b-5dd8-4204-8027-2ee122f04555" />
 
-CrossShell BSD v15.7
+CrossShell UX 0v15.7
 ------------
 This is a collection of command line tools for the Windows command line based on the BSD coreutils.
 
@@ -87,8 +86,12 @@ and used these "Thanks!!" if you found them useful; AWESOME.  Either or thank yo
 
 Disclaimer
 -----------
-Many of these tools share a similar name with their GNU or BSD counterparts but are functionally and structurely different to
-reduce licensing issues with the GPL and in areas where POSIX complaince was near impossible.  Whenever source code was observed for actual BSD utilities BSD source code was observed no Linux/GNU source code was observed during the production of these utilities.
+These tools are a reimplimination of common UNIX System V and BSD utilities that were created for interoperability for Windows systems
+because of the structural differences between Windows and native POSIX systems it is near impossible to port the actual source to run
+natively on Windows and this also reduces licensing issues with the GPL and official BSD sources.  Whenever source code was observed for
+reimplementation actual BSD source code was observed but no official sources were used in the creation of these tools.  GNU source code was 
+observed during the production of one of these utilities UFW.
+
 GNU and the GPL are registered trademarks of The Free Software Foundation.  FreeBSD is a registered Trademark of
 the FreeBSD foundation.  Linux is a registered trademark of Linus Torvalds.  Windows/Windows Server are registered trademarks of
 Microsoft Corporation
