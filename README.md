@@ -1,7 +1,7 @@
 
-CrossShell UX 0v15.7
+CrossShell UX v15.7 Core
 ------------
-This is a collection of command line tools for the Windows command line based on the BSD coreutils.
+This is a collection of command line tools for the Windows command line based on the BSD coreutils and more.
 
 Commands
 --------
