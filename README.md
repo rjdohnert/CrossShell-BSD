@@ -1,4 +1,4 @@
-<img width="400" height="165" alt="Gemini_Generated_Image_685nun685nun685n" src="https://github.com/user-attachments/assets/ef151fd4-3913-41cb-b368-003188763344" />
+<img width="500" height="185" alt="crossshell-github" src="https://github.com/user-attachments/assets/19058c68-2a81-4b84-8914-226495021dd7" />
 
 
 CrossShell UX v15.7 Core
