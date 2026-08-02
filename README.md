@@ -1,4 +1,4 @@
-<img width="500" height="197" alt="crossshell-github" src="https://github.com/user-attachments/assets/2f56446f-705c-4d00-9346-4d4ad44948db" />
+<img width="500" height="190" alt="crossshell-github" src="https://github.com/user-attachments/assets/61f5589b-16c9-426e-8e4f-56d691508b16" />
 
 CrossShell UX v15.7 Core
 ------------
