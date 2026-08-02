@@ -1,6 +1,6 @@
 <img width="500" height="218" alt="crossshell-github" src="https://github.com/user-attachments/assets/7f0c066a-4609-43c5-8b31-69cef4a73e98" />
 
-CrossShell UX v15.7 Core
+CrossShell UNIX v15.7 Open Source 
 ------------
 This is a collection of command line tools for the Windows command line based on the BSD coreutils and more.
 
